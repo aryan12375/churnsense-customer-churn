@@ -1,0 +1,61 @@
+{
+  "champion": "Logistic Regression",
+  "trained_at": "2026-03-17T15:49:03.457230Z",
+  "metrics": {
+    "roc_auc": 0.8448,
+    "f1": 0.6167,
+    "avg_precision": 0.6629,
+    "precision": 0.5096,
+    "recall": 0.7807,
+    "accuracy": 0.7424,
+    "train_time_s": 0.26
+  },
+  "feature_count": 56,
+  "all_results": {
+    "Logistic Regression": {
+      "roc_auc": 0.8448,
+      "f1": 0.6167,
+      "avg_precision": 0.6629,
+      "precision": 0.5096,
+      "recall": 0.7807,
+      "accuracy": 0.7424,
+      "train_time_s": 0.26
+    },
+    "Random Forest": {
+      "roc_auc": 0.8322,
+      "f1": 0.5844,
+      "avg_precision": 0.6277,
+      "precision": 0.5682,
+      "recall": 0.6016,
+      "accuracy": 0.7729,
+      "train_time_s": 1.59
+    },
+    "Gradient Boosting": {
+      "roc_auc": 0.8358,
+      "f1": 0.592,
+      "avg_precision": 0.6445,
+      "precision": 0.5904,
+      "recall": 0.5936,
+      "accuracy": 0.7828,
+      "train_time_s": 5.23
+    },
+    "SVM": {
+      "roc_auc": 0.8255,
+      "f1": 0.6186,
+      "avg_precision": 0.5985,
+      "precision": 0.5231,
+      "recall": 0.7567,
+      "accuracy": 0.7523,
+      "train_time_s": 14.04
+    },
+    "ANN": {
+      "roc_auc": 0.8119,
+      "f1": 0.6065,
+      "avg_precision": 0.6046,
+      "precision": 0.5244,
+      "recall": 0.7193,
+      "accuracy": 0.7523,
+      "train_time_s": 18.99
+    }
+  }
+}
