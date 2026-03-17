@@ -114,7 +114,7 @@ npm run dev
 | Logistic Regression | 0.81 | 0.59 | ~1s |
 | SVM | 0.79 | 0.57 | ~8s |
 | Random Forest | 0.84 | 0.61 | ~12s |
-| Gradient Boosting ⭐ | **0.86** | **0.63** | ~18s |
+| Gradient Boosting  | **0.86** | **0.63** | ~18s |
 | ANN (PyTorch) | 0.85 | 0.62 | ~45s |
 
 > **Champion model**: Gradient Boosting — best ROC-AUC and F1, strong on imbalanced data, fastest to explain with SHAP.
